@@ -1,0 +1,65 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dll
+*.dylib
+
+# Unit test / coverage reports
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# -------------------------
+# IDEs & Editors
+# -------------------------
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# -------------------------
+# OS-specific
+# -------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -------------------------
+# Logs & Temp files
+# -------------------------
+*.log
+*.tmp
+*.bak
+
+# -------------------------
+# Custom (for this project)
+# -------------------------
+# Game assets you don’t want to commit (optional)
+# back.jpg
+# images/
+# comic.ttf
